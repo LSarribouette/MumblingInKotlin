@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MumblingInKotlin</string>
+    <string name="app_name" translatable="false">MumblingInKotlin</string>
+    <string name="icon_flower_name">Une jolie fleur pour mon Hello World</string>
 </resources>

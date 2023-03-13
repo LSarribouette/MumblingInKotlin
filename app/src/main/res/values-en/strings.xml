@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MumblingInKotlin</string>
+    <string name="icon_flower_name">A nice flower for my Hello World</string>
+</resources>
