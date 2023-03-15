@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">MumblingInKotlin</string>
     <string name="icon_flower_name">A nice flower for my Hello World</string>
+    <string name="hello_world_string">Hello World!</string>
 </resources>

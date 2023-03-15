@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">MumblingInKotlin</string>
     <string name="icon_flower_name">Une jolie fleur pour mon Hello World</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="hello_world_string">Hello World!</string>
 </resources>
